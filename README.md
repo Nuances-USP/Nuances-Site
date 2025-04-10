@@ -1,4 +1,4 @@
-# Nuances-Site
+# Nuances-Site 🏳️‍🌈
 Website for Nuances
 
 ## About
